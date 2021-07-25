@@ -29,6 +29,7 @@ ncu -c
 npm i
 D:\Download\React\[FreeCoursesOnline.Me] Code With Mosh - The Complete Node.js Course\13. Integration Testing
 13 - 9
+15 - 9
 
 // some import packages.
 fawn - for transaction management in mongo
@@ -45,3 +46,8 @@ supertest - library used to send http request like postman.
 type command in CMD/terminal
 for win -? set vidly_jwtPrivateKey=mySecureKey
 for mac -? export vidly_jwtPrivateKey=mySecureKey
+
+//heroku
+heroku config : to get config
+heroku config:set vidly_db="xyz"
+

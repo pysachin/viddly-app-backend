@@ -433,3 +433,21 @@
 {"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T06:55:35.155Z"}
 {"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T07:13:52.483Z"}
 {"level":"info","message":"Connect To mongodb://localhost/vidly...","timestamp":"2021-07-18T07:13:54.568Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:39:18.107Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB...","timestamp":"2021-07-18T08:39:19.337Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:44:10.445Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:44:11.599Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:45:19.913Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:45:21.032Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:46:46.737Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:46:47.908Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:49:43.128Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:49:44.195Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:54:29.357Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:54:30.640Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T08:56:34.675Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T08:56:35.800Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T09:04:07.462Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T09:04:08.632Z"}
+{"level":"info","message":"listening on port 3000","timestamp":"2021-07-18T09:11:47.638Z"}
+{"level":"info","message":"Connect To mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority...","timestamp":"2021-07-18T09:11:54.059Z"}
