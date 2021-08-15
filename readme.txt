@@ -50,4 +50,17 @@ for mac -? export vidly_jwtPrivateKey=mySecureKey
 //heroku
 heroku config : to get config
 heroku config:set vidly_db="xyz"
+ -- push code to heroku
+ git push heroku main (master (branch_name))
 
+mlabadmin
+bYxqXGi3PPQBRuEY
+
+"db":"mongodb://localhost/vidly"
+
+mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB
+mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB
+
+mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority
+
+heroku restart
