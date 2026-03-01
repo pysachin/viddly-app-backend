@@ -26,10 +26,6 @@ npm update
 npm-check-updates
 ncu -c
 
-npm i
-D:\Download\React\[FreeCoursesOnline.Me] Code With Mosh - The Complete Node.js Course\13. Integration Testing
-13 - 9
-15 - 9
 
 // some import packages.
 fawn - for transaction management in mongo
@@ -47,18 +43,6 @@ type command in CMD/terminal
 for win -? set vidly_jwtPrivateKey=mySecureKey
 for mac -? export vidly_jwtPrivateKey=mySecureKey
 
-//heroku
-heroku config : to get config
-heroku config:set vidly_db="xyz"
- -- push code to heroku
- git push heroku main (master (branch_name))
-
-mlabadmin
-bYxqXGi3PPQBRuEY
-
-"db":"mongodb://localhost/vidly"
-
-mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB
 mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB
 
 mongodb+srv://mlabadmin:bYxqXGi3PPQBRuEY@cluster0.ltjtr.mongodb.net/genericMongoDB?retryWrites=true&w=majority
